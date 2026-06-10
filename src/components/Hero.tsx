@@ -35,7 +35,7 @@ const ANIMALS_SIMULATION = [
     emoji: '🐑',
     breed: 'Santa Inês Pura',
     gmd: '+0.28 kg/dia',
-    image: 'https://images.unsplash.com/photo-1484557052118-f32bd25b45b5?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.pexels.com/photos/18480242/pexels-photo-18480242.jpeg',
     angles: ['Perfil', 'Posterior']
   }
 ];
