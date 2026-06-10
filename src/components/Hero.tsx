@@ -15,7 +15,7 @@ const ANIMALS_SIMULATION = [
     emoji: '🐂',
     breed: 'Nelore Elite',
     gmd: '+0.85 kg/dia',
-    image: 'https://images.pexels.com/photos/10263539/pexels-photo-10263539.jpeg',
+    image: 'https://images.pexels.com/photos/10263539/pexels-photo-10263539.jpeg?auto=compress&cs=tinysrgb&w=800',
     angles: ['Lateral Direita', 'Traseira', 'Superior', 'Frontal']
   },
   {
@@ -35,7 +35,7 @@ const ANIMALS_SIMULATION = [
     emoji: '🐑',
     breed: 'Santa Inês Pura',
     gmd: '+0.28 kg/dia',
-    image: 'https://images.pexels.com/photos/18480242/pexels-photo-18480242.jpeg',
+    image: 'https://images.pexels.com/photos/18480242/pexels-photo-18480242.jpeg?auto=compress&cs=tinysrgb&w=800',
     angles: ['Perfil', 'Posterior']
   }
 ];

@@ -21,7 +21,7 @@ export default function InteractiveShowcase() {
     tech: {
       title: "Boi no pasto com calibração digital de peso",
       description: "O sensor fotométrico lê os perímetros do boi por múltiplos overlays, relacionando proporcionalidade zootécnica ao peso real em tempo recorde.",
-      image: "https://images.pexels.com/photos/2191432/pexels-photo-2191432.jpeg",
+      image: "https://images.pexels.com/photos/2191432/pexels-photo-2191432.jpeg?auto=compress&cs=tinysrgb&w=800",
       features: [
         "Estimação com menos estresse no rebanho",
         "Diferentes ângulos fotográficos automáticos",

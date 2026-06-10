@@ -196,7 +196,7 @@ export default function WeightEstimation({ companyInfo }: WeightEstimationProps)
                       <div className="relative aspect-video w-full rounded-xl border-2 border-brand-neon bg-black flex items-center justify-center overflow-hidden">
                         {/* Simulated livestock silhouette overlay */}
                         <img 
-                          src="https://images.pexels.com/photos/2191432/pexels-photo-2191432.jpeg" 
+                          src="https://images.pexels.com/photos/2191432/pexels-photo-2191432.jpeg?auto=compress&cs=tinysrgb&w=800" 
                           alt="Bovino no pasto para estimativa" 
                           className="w-full h-full object-cover opacity-60"
                           referrerPolicy="no-referrer"
