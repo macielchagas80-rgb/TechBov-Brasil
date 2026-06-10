@@ -1,0 +1,6 @@
+{
+  "name": "TechBov Brasil",
+  "description": "Plataforma inovadora de gestão animal e estimativa de peso inteligente por fotos desenvolvida apenas para celular e telefone Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
